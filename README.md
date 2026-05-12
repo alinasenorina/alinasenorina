@@ -20,5 +20,4 @@ I am a student at ITMO University, focused on data analysis, numerical methods, 
 
 ### Connect with me:
 
-* **Telegram:** [@your_telegram](https://t.me/your_telegram)
-* **Email:** [your_email@example.com](mailto:your_email@example.com)
+* **Email:** bloudlink@gmail.com
